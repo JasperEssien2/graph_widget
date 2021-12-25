@@ -2,7 +2,7 @@
 
 A fun flutter paint challenge.
 
-- [Gif showing the paint challenge](https://github.com/JasperEssien2/graph_widget/blob/master/display/graph_widget_display.gif)
+- [Gif showing the paint challenge](https://github.com/JasperEssien2/graph_widget/blob/master/display/graph_widget_display_.gif)
 
 ## Getting Started
 
